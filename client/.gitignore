@@ -1,0 +1,4 @@
+# Test coverage reports
+**/coverage/
+**/coverage-*
+**/.nyc_output

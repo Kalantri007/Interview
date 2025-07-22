@@ -1,0 +1,11 @@
+# Prisma
+/prisma/migrations/
+/prisma/dev.db*
+/prisma/*.db
+/prisma/*.db-journal
+
+# Test artifacts
+/test/ctrf/
+/test/junit/
+/test/coverage/
+/test/reports/
